@@ -72,6 +72,14 @@
     color: #150101;
     margin: 137px 677px 64px 681px;
 }
+.product{
+    position: relative;
+}
+
+.product_nav{
+    position: sticky;
+    top: 0;
+}
 
 .product_ul{
     display: flex;
