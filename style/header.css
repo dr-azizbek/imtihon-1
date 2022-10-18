@@ -1,0 +1,108 @@
+header{
+	background-color: #ecd5dd;
+}
+
+nav{
+	width: 1125px;
+	margin: 10px 230px 0px 245px; 
+	display: flex;
+}
+
+.polar{
+	margin-right: 266px;
+	margin-top: 10px;
+}
+
+.menu-ul{
+	display: flex;
+	width: 450px;
+	justify-content: space-between;
+	margin-top: 42px;
+}
+
+.menu_items a{
+	color: #150101;
+}
+
+
+.menu_items{
+	font-size: 14px;
+}
+
+.menu_button{
+	width: 165px;
+	height: 49px;
+	background-color: #D23166;
+	border-color: #D23166;
+	margin-left: 172px;
+	margin-top: 25px;
+	color: #fff;
+}
+
+
+.ice_cream{
+	display: flex;
+}
+
+
+.ice_cream_info{
+}
+
+.ice_cream_milk{
+	font-size: 14px;
+	color: #0F0101;
+	margin: 196px 314px 0px 254px;
+}
+
+.cream_page{
+	font-size: 57px;
+	line-height: 69px;
+	margin-left:254px ;
+	width: 610px;
+	margin-top: -6px;
+}
+
+.cream_text{
+	font-size: 18px;
+	line-height: 27px;
+	color: #0F0101;
+	margin: 35px 0px 0px 254px;
+	width: 523px;
+}
+
+.cream_button{
+	width: 165px;
+	height: 49px;
+	background-color: #D23166;
+	border-color: #D23166;
+	margin-left: 254px;
+	margin-top: 50px;
+	color: #fff;
+}
+
+.ice_creams{
+    position: relative;
+}
+
+.image_two{
+	margin:-500px 0px 0px -130px;
+}
+
+
+
+.image_one{
+	background-image: url("../images/eep88j2SDJ-removebg-preview\ 1.png");
+	width: 597px;
+	height: 597px;
+}
+
+.images_circul{
+    position: absolute;
+    background-image: url(../images/Ellipse\ 18.png);
+    width: 365px;
+    height: 353px;
+    margin: 255px 88px 0px 130px;
+}
+
+
+
